@@ -14,7 +14,7 @@ s.login("singh.santosh2702@gmail.com", "password")
 message = "Clash"
 
 # sending the mail
-s.sendmail("singh.santosh2702@gmail.com", "pankajsingh0305@gmail.com", message)
+s.sendmail("singh.santosh2702@gmail.com", "shwetanksp@gmail.com", message)
 
 # terminating the session
 s.quit()
@@ -22,8 +22,3 @@ s.quit()
 
 
 
-##arduino=serial.Serial('COM5',9600,timeout=.1)
-##data=''
-##x=1
-##while x:
-##    data=arduino.readline()
